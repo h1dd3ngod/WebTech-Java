@@ -1,0 +1,11 @@
+javac -d src/com/javaWebtech/h1dd3n/task10 ./src/com/javaWebtech/h1dd3n/task9/*
+java -classpath ./task10 com.javaWebtech.h1dd3n.task9.WeightEvaluator
+enter amount of balls:
+5
+RED 43.0
+BLACK 440.0
+BLACK 742.0
+BLUE 42.0
+RED 471.0
+count of blue balls 1
+total weight of balls 1738.0
